@@ -1,0 +1,17 @@
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN" "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node>
+  <interface name="com.scythestudio.dbus.shop">
+    <method name="addProduct">
+      <arg name="product" type="(is)" direction="in"/>
+      <annotation name="org.qtproject.QtDBus.QtTypeName.In0" value="Product"/>
+    </method>
+    <method name="getProducts">
+      <arg type="a(is)" direction="out"/>
+      <annotation name="org.qtproject.QtDBus.QtTypeName.Out0" value="QList&lt;Product&gt;"/>
+    </method>
+    <signal name="productAdded">
+      <arg type="(is)" direction="out"/>
+      <annotation name="org.qtproject.QtDBus.QtTypeName.Out0" value="Product"/>
+    </signal>
+  </interface>
+</node>
