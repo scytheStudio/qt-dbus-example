@@ -5,7 +5,7 @@ D-Bus is a popular mechanism to implement an inter-process communication. It's i
 
 That's why we spent some time on preparin a tutorial and this example on how to start with D-Bus in the Qt framework - our main area of expertise.
 
-You find the blog post with full ste-by-step explanation on [Scythe Studio website](https://scythe-studio.com/en/blog/qt-d-bus-example).
+You find the blog post with full ste-by-step explanation on [Scythe Studio website](https://scythe-studio.com/en/blog/how-to-use-d-bus-with-qt-6).
 Make sure you check it!
 
 ---
