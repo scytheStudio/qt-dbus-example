@@ -12,7 +12,7 @@ Make sure you check it!
 
 <br>
 
-[![Somco Software](./pictures/scythestudio-logo.png)](https://somcosoftware.com)
+[![Somco Software](./pictures/Group%201.png)](https://somcosoftware.com)
 
 ## About Somco Software
 We are a group of Qt and C++ enthusiasts whose goal is to address growing demand for cross-platform Qt development services. Thanks to our expertise in **Qt QML development**, quality of deliveries and proven track of projects developed for companies from various industries we have been awarded the title of an official **Qt Service Partner**.
